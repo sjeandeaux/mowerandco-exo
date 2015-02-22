@@ -60,7 +60,7 @@
         <jacoco-maven-plugin.version>0.7.3.201502191951</jacoco-maven-plugin.version>
 
         <coveralls-maven-plugin.version>3.0.1</coveralls-maven-plugin.version>
-        <repoTokenCoveralls>your toker</repoTokenCoveralls>
+        <repoTokenCoveralls>your token</repoTokenCoveralls>
     </properties>
 
     <developers>

@@ -6,7 +6,7 @@
 
     <groupId>fr.mowerandco</groupId>
     <artifactId>mowerandco-exo</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0</version>
     <description>Un terrain et des tondeuses.</description>
 
     <prerequisites>

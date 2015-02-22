@@ -4,6 +4,7 @@ Des tondeuse à deplacer
 [![Build Status](https://travis-ci.org/sjeandeaux/mowerandco-exo.svg)](https://travis-ci.org/sjeandeaux/mowerandco-exo) [![Coverage Status](https://coveralls.io/repos/sjeandeaux/mowerandco-exo/badge.svg)](https://coveralls.io/r/sjeandeaux/mowerandco-exo)
 
 ```sh
-java -jar mowerandco-exo-1.0-SNAPSHOT-jar-with-dependencies.jar file
+mvn clean install
+java -jar target/mowerandco-exo-*-jar-with-dependencies.jar file://$(eval pwd)/target/test-classes/sample.txt
 ```
 

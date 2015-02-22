@@ -1,4 +1,4 @@
-package fr.mowerandco.cmd;
+package fr.mowerandco.core.cmd;
 
 import fr.mowerandco.core.Lawn;
 import fr.mowerandco.core.Mower;
